@@ -1,0 +1,35 @@
+Contains projects related to Seven Languages in Seven Weeks by Bruce A. Tate
+
+From The Pragmatic Bookshelf:
+
+====
+
+Ruby, Io, Prolog, Scala, Erlang, Clojure, Haskell. With Seven Languages in Seven Weeks, by Bruce A. Tate, you’ll go beyond 
+the syntax—and beyond the 20-minute tutorial you’ll find someplace online. This book has an audacious goal: to present 
+a meaningful exploration of seven languages within a single book. Seven Languages hits what’s essential and unique 
+about each language and will help teach you how to grok new languages.
+
+For each language, you’ll solve a nontrivial problem, using techniques that show off the language’s most important 
+features. You’ll discover the strengths and weaknesses of each language while dissecting the process of learning 
+languages quickly—for example, finding the typing and programming models, decision structures, and how you 
+interact with them.
+
+Among this group of seven, you’ll explore the most critical programming models of our time. Learn the dynamic typing 
+that makes Ruby, Python, and Perl so flexible and compelling. Understand the underlying prototype system that’s 
+at the heart of JavaScript. See how pattern matching in Prolog shaped the development of Scala and Erlang. Discover how 
+pure functional programming in Haskell is different from the Lisp family of languages, including Clojure.
+
+Explore the concurrency techniques that are quickly becoming the backbone of a new generation of Internet applications. 
+Find out how to use Erlang’s let-it-crash philosophy for building fault-tolerant systems. Understand the actor model 
+that drives concurrency design in Io and Scala. Learn how Clojure uses versioning to solve some of the most difficult 
+concurrency problems.
+
+It’s all here, all in one place. Use the concepts from one language to find creative solutions in another—or 
+discover a language that may become one of your favorites.
+
+====
+
+http://pragprog.com/book/btlang/seven-languages-in-seven-weeks
+
+Executing each project will require the necessary binaries and libraries for each language.  The specifics can be
+found under each languages folder.
