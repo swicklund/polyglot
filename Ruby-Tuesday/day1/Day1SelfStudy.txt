@@ -1,0 +1,53 @@
+>> puts 'Hello, world.'
+Hello, world.
+=> nil
+
+
+>> 'Hello, Ruby.'.index('Ruby')
+=> 7
+
+
+>> 'Zach'*10
+=> "ZachZachZachZachZachZachZachZachZachZach"
+>> i = 0
+>> puts 'Zach' while (i += 1) <= 10
+Zach
+Zach
+Zach
+Zach
+Zach
+Zach
+Zach
+Zach
+Zach
+Zach
+=> nil
+
+
+>> i = 0
+=> 0
+>> puts "This is sentence number #{i}" while (i += 1) <= 10
+This is sentence number 1
+This is sentence number 2
+This is sentence number 3
+This is sentence number 4
+This is sentence number 5
+This is sentence number 6
+This is sentence number 7
+This is sentence number 8
+This is sentence number 9
+This is sentence number 10
+=> nil
+
+***(exit out of irb)
+zachleat$ ruby sentence-number.rb 
+This is sentence number 1
+This is sentence number 2
+This is sentence number 3
+This is sentence number 4
+This is sentence number 5
+This is sentence number 6
+This is sentence number 7
+This is sentence number 8
+This is sentence number 9
+This is sentence number 10
